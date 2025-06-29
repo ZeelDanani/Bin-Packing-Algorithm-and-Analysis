@@ -1,7 +1,5 @@
 # Bin Packing Approximation Algorithms: Analysis and Comparison
 
-![Algorithm Comparison Visualization](Figure_1.png)
-
 ## Abstract
 This project explores and compares several approximation algorithms for the Bin Packing Problem, including:
 - Next Fit (NF)
